@@ -9,5 +9,5 @@
 - 
 Financial Innovations in Blockchain Marketing
 
-<div style="position:absolute;left:0px; top:0px;"> 1 USDC <img src="https://github.com/ibbtco/USMI/blob/main/blockchains/ethereum/assets/usdc/logo.png" width="24" height="24"></div>
+<div style="position:absolute;left:0px; top:0px;"><img src="https://github.com/ibbtco/USMI/blob/main/images/USMI%202021-07-05%2013-24-11.png"></div>
 
