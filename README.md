@@ -11,5 +11,5 @@ Financial Innovations in Blockchain Marketing
 
 ### 1 USMI is mintable by:
 
-<div style="position:absolute;left:0px; top:10px;"> 1 USDC <img src="https://github.com/ibbtco/USMI/blob/main/blockchains/ethereum/assets/usdc/logo.png" width="32" height="32"></div>
+<div style="position:absolute;left:0px; top:30px;"> 1 USDC</div><div style="position:absolute;left:0px; top:0px;"><img src="https://github.com/ibbtco/USMI/blob/main/blockchains/ethereum/assets/usdc/logo.png" width="32" height="32"></div>
 
