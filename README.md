@@ -7,9 +7,9 @@
 - Mainnet : [0x4426377f2B75E041f444EcB6013a5f29b1c9C193](https://mooniswap.info/token/0x4426377f2B75E041f444EcB6013a5f29b1c9C193) BUY IT HERE
 - Main Features: Run on the ethereum blockchain
 
-The U.S. Dollar Monetary Index is an index of the value of the United States dollar pegged to a basket of Stablecoins, This type of index can be used U.S. trade partners' to exchaneg value when large amounts are needed. The value of 1 USMI can be exchanged for the 10 basket currencies listed below . The Index give the U.S. dollar "strength" thuogh stability with very little price deviation. 
+>The U.S. Dollar Monetary Index is an index of the value of the United States dollar-pegged to a basket of Stablecoins, This type of Index can be used by U.S. trade partners' to exchange value when large amounts are needed. For example, 1 USMI is exchangeable for the ten basket currencies listed below. The Index gives the U.S. dollar "strength" through stability with minimal price deviation. 
 
-The USMI can be aquired directly from Iblockchain Bank & Trust or iBBT mint any number of USMI required against a deposit of stablecoins. 
+The USMI can be acquired directly from iBlockchain Bank & Trust or iBBT mint any USMI required against a deposit of stablecoins.  
 - 
 ### Innovations in Blockchain DeFI Istruments
 
