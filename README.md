@@ -7,7 +7,7 @@
 - Mainnet : [0x4426377f2B75E041f444EcB6013a5f29b1c9C193](https://mooniswap.info/token/0x4426377f2B75E041f444EcB6013a5f29b1c9C193) BUY IT HERE
 - Main Features: Run on the ethereum blockchain
 - 
-Financial Innovations in Blockchain Marketing
+### Innovations in Blockchain DeFI Istruments
 
 <div style="position:absolute;left:0px; top:0px;"><img src="https://github.com/ibbtco/USMI/blob/main/images/USMI%202021-07-05%2013-24-11.png"></div>
 
