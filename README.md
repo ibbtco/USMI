@@ -17,5 +17,5 @@ The USMI can be acquired directly from iBlockchain Bank & Trust or iBBT mint any
 
 <div style="position:absolute;left:0px; top:0px;"><img src="https://github.com/ibbtco/USMI/blob/main/images/USMI%202021-07-05%2013-24-11.png"></div>
 
-- ETH/USMI Pair ![image](https://mooniswap.info/pair/0xae5938f436beb02e5bdfa2cad83208f489c3e048)
+- ![image](https://mooniswap.info/pair/0xae5938f436beb02e5bdfa2cad83208f489c3e048)
 
