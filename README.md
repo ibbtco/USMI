@@ -6,7 +6,7 @@
 > What is a US Dollar Monetary Index or (USMI)?  
 - Etherscan: [0x4426377f2B75E041f444EcB6013a5f29b1c9C193](https://etherscan.io/token/0x4426377f2b75e041f444ecb6013a5f29b1c9c193)
 - Ethplorer: [0x4426377f2B75E041f444EcB6013a5f29b1c9C193](https://ethplorer.io/address/0x4426377f2b75e041f444ecb6013a5f29b1c9c193)
-- Exchange : [0x4426377f2B75E041f444EcB6013a5f29b1c9C193](https://mooniswap.info/token/0x4426377f2B75E041f444EcB6013a5f29b1c9C193) (Followlink to see the current USMI value)
+- Exchange : [0x4426377f2B75E041f444EcB6013a5f29b1c9C193](https://mooniswap.info/token/0x4426377f2B75E041f444EcB6013a5f29b1c9C193) (Follow the link to see the current USMI value)
 - Main Features: Run on the ethereum blockchain
 
 >The U.S. Dollar Monetary Index is an index of the value of the United States dollar-pegged to a basket of Stablecoins, This type of Index can be used by U.S. trade partners' to exchange value when large amounts are needed. For example, 1 USMI is exchangeable for the ten basket currencies listed below. The Index gives the U.S. dollar "strength" through stability with minimal price deviation. 
